@@ -7,7 +7,7 @@ This repository contains a sample notebook to get you started on the challenge. 
 
 Clone this repository:
 ```
-git clone https://github.com/AirLiquide/Data-Challenge-Starter-Kit.git
+git clone https://github.com/Total-RD/starter_kit_data_challenge_EEIA22.git
 ```
 
 Download the data from the plateform, and put it in the data/ directory
