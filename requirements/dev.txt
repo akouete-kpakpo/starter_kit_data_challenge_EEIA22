@@ -4,7 +4,6 @@
 #
 #    pip-compile requirements/dev.in
 #
---extra-index-url https://_json_key_base64:ew0KICAgICJ0eXBlIjogInNlcnZpY2VfYWNjb3VudCIsDQogICAgInByb2plY3RfaWQiOiAid2luZHktYW5jaG9yLTI5NjIxMSIsDQogICAgInByaXZhdGVfa2V5X2lkIjogIjNlNTZlNjdkYTYyYzljZWYxZWFkNDRjYjIwMDBiOWU3NWJhY2FlZTIiLA0KICAgICJwcml2YXRlX2tleSI6ICItLS0tLUJFR0lOIFBSSVZBVEUgS0VZLS0tLS1cbk1JSUV2UUlCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQktjd2dnU2pBZ0VBQW9JQkFRRGhwWktHV1lNcExkUS9cblR1QTcrbjJnZ3R2cHhJOWJqK0dWdENtT3pRN3VEczNKZTYrU042MzNFUVJvaWwxY3FPQkJvOGRsUlA2MCtNai9cbmhScnhCSEZ5b1hKa3AyTUZGSW5jSVlBYXJ6TzZ1VDM3c01GV2F5Umdwb2gvb1kyWHJGMGFCc1A5bkszWDFQUXlcbmNSZmVrcjIycllZOXVhTTlmSjZvYUNIZ2hwMlYvdHdSSXhISE1NN2FSSVpERmREL0JFQnMxdVVrTHl5UjArTExcbmh5Q0k3b0lLT29jaStFS0JBRXdMenE1aDZpa3RPQ0hNT1dPbVR1N3FrRU41bnFaS09aT2RicGtKTkQvQmZ1aWJcbllXYml2cnYyMU92UDRLSjMwTHIyQi9nM3RsZVZuME5uWlRyWGZvQjRMQTkydkJVVzg4TVlaYmlTK2tZVzBwNzRcbnJOQUVUcXpyQWdNQkFBRUNnZ0VBQmN2ZWlUUDRjaERhMEd1Q3lCZWxyWDlmRGRDK1RBQlVyNmRLbi8vMWY3a0Ncbm9VZmJtVHB6N2hKU1Zpc2p2ZE1hdTZUczVOV1NZMnkyb1JXMnZQVTd3dEdSNGpNSWtLTlg3VDh4RHI1c2FrSUNcbjdSbTd4YkFINWJHeGRQSGQ5TVQ1T1VkdU5uQVZhU052eUhIdVJvbm5kSzlkY08xNVc0VjlmOTc0Njg4WmNqWm1cbjZ5UEhUcjlFTHVXK2x4QUN5cTI2US9UNWxpY2Rua3JtK1FiU1h0ZDBrWTAra01jVmNWUlR0dm4yeGVpWlR1YXZcbmFldzFQR1VwbDQzMGxWY1kySkh2dEYrN0hUY21zSE9lMmY5VnBFZTVvSTc1RjYxRFhPZmtZLzdJUkNvYU1UTnpcbnd2M2NZRENPcU94VkczK1VBdFQzK2ZmVVMwU3IwQTQ1VlU4M0tJS08vUUtCZ1FEL0IyeUVGZEoxSEMzZThlcmxcbkpPN1RRbFJ1cnp6UEQ4WGFSU1lERHA4SEtCN1FldnNNT0xNWnJiK2VDZmZKVXRyVEN3TWVwdDFGSDJISHllZUpcbnZ6WVdLd29IdUR3ZlM5TzFDRGpPUFpKN3ExbTlWU1IwanhoTDBxcHpTc2ZkYks3TE9wRFlJTC9DRWMrcGllMWVcblc5eE11WGs1NWJLa3Y2VFhjTnZXaERvbTl3S0JnUURpZ1lKNndjZTkyaFJNYVh1Smx2SEdvTFB6OTJNVVlRM0RcbnpZQW00WU15Q3g0MGFPK1JuRE12NDJSVmVlQmwzQW5HeXdCcUtXM2RGUlBaMkYxdy9UODFvQmtSMFpNL0tUV2NcbkdkdnZUZWlGU2ZIL0tpbThTcHhveE1GUFFVVm5WWGpnYkhNcEpsN1FiQ1A2U2hJVHA5dk9iUEY1SEppWGt1ODRcbjBERUNEc0pvclFLQmdFV0g5S0llZ1A3RTdBeTQwRjRoTDZ3UmpZdVA0M2hneUlTMkRhTVB2WFBxRUZ5dTZ2dHVcbkNnYWFSSUFHSDdTWURta3p1Mm9EL0pmMzhtVFNPM3BtMDR3L3Q4QmJEcWxKdHpMSVJ4U1QzUGd5dzRqSFNlVXRcbmptWTl6Wk1aZEZ4K1lUbXZnZ1lyQjUwVjFoUlhNb3hqWnpEVDhLVkVadXhjQThscFQ4YXd6bG9KQW9HQkFOYndcbktzOHVmOHFxM1VROWZKdHQvM1NMSHZqTnN0bXQxNUFNdkNVcExvUVloTXNiSU9zK0hGeS9IWUQzTEhlOFBCTEdcbnBGZ1poRVdkTUw4eVVFbGVKOU5OWHp6SGNVRW9hOVQ3dlBiektVa0NpSCtvbFA0Mmx3SGNZOHcvbGdxZTB4dTBcbkRmdm9pMlNnbWV0eXlvQ1ljejhKcG9OVkhZQUlVTFhLNmhhWHh1ZnBBb0dBQlRlZGxaYlJpb0MvNnp1OWxac3hcblgySUZQSHVyMjgra1dQSFNpL01mdWV6cDRrelhwUk1CR2Vvd21jaVI0ODV2NFVCaHJwWEUzb056WjVSQnNnUHJcbjAybEpQUURERTEvZC9NQU5SeXNSR3cyaEdVdjFmVTQxRkVQbm05VUFLZUd2d0MrRThqR3JPWjh6dWR5Ukh3UEdcbjZHSlRSYlk2ODRFTUlrRTZZNzluK1Z3PVxuLS0tLS1FTkQgUFJJVkFURSBLRVktLS0tLVxuIiwNCiAgICAiY2xpZW50X2VtYWlsIjogImtldmluLWtwYWtwb0B3aW5keS1hbmNob3ItMjk2MjExLmlhbS5nc2VydmljZWFjY291bnQuY29tIiwNCiAgICAiY2xpZW50X2lkIjogIjEwNDk3NTk4NDA2MzY1MjE2MzgwOSIsDQogICAgImF1dGhfdXJpIjogImh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi9hdXRoIiwNCiAgICAidG9rZW5fdXJpIjogImh0dHBzOi8vb2F1dGgyLmdvb2dsZWFwaXMuY29tL3Rva2VuIiwNCiAgICAiYXV0aF9wcm92aWRlcl94NTA5X2NlcnRfdXJsIjogImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL29hdXRoMi92MS9jZXJ0cyIsDQogICAgImNsaWVudF94NTA5X2NlcnRfdXJsIjogImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL3JvYm90L3YxL21ldGFkYXRhL3g1MDkva2V2aW4ta3Bha3BvJTQwd2luZHktYW5jaG9yLTI5NjIxMS5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSINCn0NCg==@europe-west1-python.pkg.dev/cicd-runners/pypi/simple/
 
 argon2-cffi==21.3.0
     # via notebook
@@ -22,8 +21,12 @@ beautifulsoup4==4.11.1
     # via nbconvert
 bleach==5.0.1
     # via nbconvert
+certifi==2022.6.15
+    # via requests
 cffi==1.15.1
     # via argon2-cffi-bindings
+charset-normalizer==2.1.0
+    # via requests
 click==8.1.3
     # via pip-tools
 cmdstanpy==1.0.4
@@ -36,6 +39,8 @@ cycler==0.11.0
     # via matplotlib
 cython==0.29.32
     # via prophet
+deap==1.3.1
+    # via tpot
 debugpy==1.6.2
     # via ipykernel
 decorator==5.1.1
@@ -56,6 +61,8 @@ hijri-converter==2.2.4
     # via holidays
 holidays==0.14.2
     # via prophet
+idna==3.3
+    # via requests
 importlib-resources==5.9.0
     # via jsonschema
 iniconfig==1.1.1
@@ -86,7 +93,9 @@ jinja2==3.1.2
     #   nbconvert
     #   notebook
 joblib==1.1.0
-    # via scikit-learn
+    # via
+    #   scikit-learn
+    #   tpot
 jsonschema==4.9.0
     # via nbformat
 jupyter==1.0.0
@@ -155,11 +164,14 @@ notebook==6.4.12
 numpy==1.23.1
     # via
     #   cmdstanpy
+    #   deap
     #   matplotlib
     #   pandas
     #   prophet
     #   scikit-learn
     #   scipy
+    #   tpot
+    #   xgboost
 packaging==21.3
     # via
     #   ipykernel
@@ -171,6 +183,7 @@ pandas==1.4.3
     #   -r requirements/dev.in
     #   cmdstanpy
     #   prophet
+    #   tpot
 pandocfilters==1.5.0
     # via nbconvert
 parso==0.8.3
@@ -249,10 +262,17 @@ qtconsole==5.3.1
     # via jupyter
 qtpy==2.1.0
     # via qtconsole
+requests==2.28.1
+    # via update-checker
 scikit-learn==0.24.2
-    # via -r requirements/dev.in
+    # via
+    #   -r requirements/dev.in
+    #   tpot
 scipy==1.9.0
-    # via scikit-learn
+    # via
+    #   scikit-learn
+    #   tpot
+    #   xgboost
 send2trash==1.8.0
     # via notebook
 setuptools-git==1.2
@@ -266,6 +286,8 @@ soupsieve==2.3.2.post1
     # via beautifulsoup4
 stack-data==0.3.0
     # via ipython
+stopit==1.1.2
+    # via tpot
 tenacity==8.0.1
     # via plotly
 terminado==0.15.0
@@ -284,10 +306,13 @@ tornado==6.2
     #   jupyter-client
     #   notebook
     #   terminado
+tpot==0.11.7
+    # via -r requirements/dev.in
 tqdm==4.64.0
     # via
     #   cmdstanpy
     #   prophet
+    #   tpot
 traitlets==5.3.0
     # via
     #   ipykernel
@@ -303,6 +328,10 @@ traitlets==5.3.0
     #   qtconsole
 ujson==5.4.0
     # via cmdstanpy
+update-checker==0.18.0
+    # via tpot
+urllib3==1.26.11
+    # via requests
 wcwidth==0.2.5
     # via prompt-toolkit
 webencodings==0.5.1
@@ -315,6 +344,8 @@ wheel==0.37.1
     #   prophet
 widgetsnbextension==3.6.1
     # via ipywidgets
+xgboost==1.6.1
+    # via tpot
 zipp==3.8.1
     # via importlib-resources
 
